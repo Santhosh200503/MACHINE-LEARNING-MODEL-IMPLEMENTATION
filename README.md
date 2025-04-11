@@ -19,3 +19,5 @@ Finally, the model is tested with custom sample messages to demonstrate how it c
 
 
 Let me know if you'd like this translated into Hindi or any other language, or if you'd like a version for Word or PDF!
+#output
+![Image](https://github.com/user-attachments/assets/da9c29b5-fadf-43b2-91ca-e939d7ff12ea)
